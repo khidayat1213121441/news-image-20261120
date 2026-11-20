@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261120/khidayat1213121441/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 [![reward](https://make.fun/badge/news-image-20261120/khidayat1213121441/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
-A procedural front page summing up 20 November 2026 — drawn by a pure-Python software rasterizer: Trump puts the Iran war decision off to 2027, Voyager 1 crosses one light-day, GTA 6 sales pass $1.8 billion, Cyclone Akvan forces 300,000 evacuations, Kyiv is hit by four ballistic missiles, Houthi strikes hit Riyadh and a tanker, and COP31 closes in Antalya.
+A procedural front page summing up 20 November 2026 — drawn by a pure-Python software rasterizer: Trump puts the Iran war decision off to 2027, Voyager 1 crosses one light-day, GTA 6 sales pass $1.8 billion, Cyclone Akvan forces 300,000 evacuations, Kyiv is hit by four ballistic missiles, Houthi strikes hit Riyadh and a tanker, and COP31 closes in Antalya. Late edition: a bigger lead story with a deferral timeline and a by-the-numbers strip.
 
 ## Run it
 
